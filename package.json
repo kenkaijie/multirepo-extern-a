@@ -1,6 +1,6 @@
 {
   "name": "multirepo-extern-a",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "repository": "https://github.com/kenkaijie/multirepo-extern-a.git",
   "author": "Kenneth Ng <kenneth.ng@procept.com.au>",
   "license": "MIT"
